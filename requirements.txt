@@ -1,0 +1,4 @@
+requests==2.31.0
+kafka-python3==3.0.0
+google-cloud-bigquery==2.34.0
+google-cloud-storage==1.41.0
