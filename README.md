@@ -22,7 +22,7 @@ The overall directory structure is organized as follows:
 - **`sp_project/`**
   - **`config/`**: System configuration files
   - **`dags/`**: Airflow Directed Acyclic Graphs (DAGs)
-  - **`cloud/`**: ☁️ [Create Manually] Stores external cloud service token keys
+  - **`cloud/`**: Stores external cloud service token keys
   - **`logs/`**: System and task execution logs
   - **`plugins/`**: Custom Airflow plugins and utilities
 
