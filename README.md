@@ -47,4 +47,4 @@ Once initialization is complete, run the following command to start all remainin
 ```bash
 docker compose up -d
 ```
-> **💡 Expected Outcome**: All containers will start. You can open Docker to verify that all services are up, running, and Healthy. If any service fails to start properly, please attempt to restart it.
+> **💡 Expected Outcome**: You can open Docker to verify that all services are up, running, and Healthy. If any service fails to start properly, please attempt to restart it.
